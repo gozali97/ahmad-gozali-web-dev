@@ -49,14 +49,16 @@ dan
 
 
 ## Screenshot
-
 <table>
     <tr>
         <td>
+            ![image](https://github.com/user-attachments/assets/5142f6af-ba47-4557-9596-046a69673b4f)
 
+            <img src="https://github.com/user-attachments/assets/ed1d1497-d8d8-4364-b8b6-491fdf6617ab"/>
         </td>
         <td>
-            
+            ![image](https://github.com/user-attachments/assets/a76162d1-3728-4927-944e-353f1d3c40a1)
+
         </td>
     </tr>
 </table>
